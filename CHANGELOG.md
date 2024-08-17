@@ -1,5 +1,11 @@
 # react-baffle
 
+## 1.0.4
+
+### Patch Changes
+
+- 357449e: Update nextjs example
+
 ## 1.0.3
 
 ### Patch Changes
