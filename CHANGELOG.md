@@ -1,5 +1,12 @@
 # react-baffle
 
+## 1.0.5
+
+### Patch Changes
+
+- 23effe7: Update dependencies in examples
+- 1164752: Update package.json
+
 ## 1.0.4
 
 ### Patch Changes
